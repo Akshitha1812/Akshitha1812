@@ -19,7 +19,7 @@ Welcome — I'm currently pursuing an MS in Computer Science at San Jose State U
 ---
 
 ## Connect with me
-[LinkedIn](https://www.linkedin.com/in/akshitha-boddupalli/) • [Twitter](https://twitter.com) • akshitha@example.com
+[LinkedIn](https://www.linkedin.com/in/akshitha-boddupalli/) 
 
 ---
 
