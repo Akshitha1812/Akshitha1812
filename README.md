@@ -4,7 +4,7 @@ Welcome — I'm currently pursuing an MS in Computer Science at San Jose State U
 
 ## About me
 - 🎓 MS Computer Science student at San Jose State University
-- 💻 Interests: Distributed Systems, Machine Learning, Backend Engineering
+- 💻 Interests: Distributed Systems, Machine Learning, Backend Engineering, Security
 - 🌱 Learning: Rust, scalable systems, MLOps
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/akshitha-boddupalli/) • bs.akshitha18@gmail.com
 
